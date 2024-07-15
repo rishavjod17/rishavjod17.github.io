@@ -3,6 +3,4 @@
 
 | Date | Resource person | description |
 | ----------- | ----------- |--------- |
-| 15-07-2024 | Dr. pyare lal garg |Dr. garg told us the important things.
-|15-07-2024 | Dr. Siwet Tomar | Dr. siwet tomar taught us how to fight|
-|15-07-2024 | Mr. lappu singh | Mr. lappu singh told us to shut up.
+| 15-07-2024 | Dr. pyare lal garg |Dr. garg told us the important things|
